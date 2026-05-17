@@ -13,3 +13,4 @@ A simple, object-oriented Python command-line application that fetches real-time
 Before running the application, make sure you have Python installed along with the `requests` library.
 
 ```bash
+pip install requests
